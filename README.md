@@ -19,7 +19,7 @@
   <a href="https://github.com/Andrxsgo">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Mi GitHub" />
   </a>
-  <a href="www.linkedin.com/in/andres-gutierrez-ospino-4b075a279">
+  <a href="https://linkedin.com/in/andres-gutierrez-ospino-4b075a279">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Mi LinkedIn" />
   </a>
   <a href="mailto:andresgutierrezospino@gmail.com">
@@ -114,7 +114,7 @@ Puedes añadir debajo de cada tarjeta qué hace el proyecto y qué parte te gust
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU-USUARIO">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/TU-USUARIOandres-gutierrez-ospino-4b075a279">LinkedIn</a>
   ·
   <a href="mailto:TU-CORREO@gmail.com">Correo</a>
 </p>
