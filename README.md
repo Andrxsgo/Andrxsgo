@@ -39,7 +39,7 @@ Me gusta entender lo que ocurre detrás de cada petición: cómo se procesa, dó
 
 - ⚙️ Construyo **APIs REST** con **Node.js, TypeScript, NestJS, Express y PostgreSQL**.
 - 🐍 También desarrollo con **Python, FastAPI y Flask**.
-- 🧩 Me gusta organizar la lógica con **arquitectura en capas**.
+- 🧩 Aplico principios de **Clean Architecture** y **arquitectura en capas** para escribir código organizado, escalable, modular y mantenible.
 - 🔐 Trabajo con **autenticación JWT** y entornos con **Docker**.
 - ☁️ Actualmente estoy aprendiendo **arquitectura en AWS**.
 
